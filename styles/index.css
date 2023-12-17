@@ -1,0 +1,40 @@
+body {
+    background: url('../images/fondecriture.jpg') center center fixed; 
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(255, 252, 250, 0.6); /* Couleur de fond semi-transparente pour le contenu */
+    padding: 20px;
+    border-radius: 10px; /* Coins arrondis pour le conteneur */
+    margin-top: 50px;
+}
+
+#resultat {
+    display: none;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.custom-btn {
+    background-color: rgb(37, 178, 47);
+    border-color: rgb(37, 178, 47);
+    color: white; /* Changez la couleur du texte si nécessaire */
+  }
+  
+  /* Styles supplémentaires pour les boutons Bootstrap */
+  .btn-primary {
+    background-color: rgb(37, 178, 47);
+    border-color:rgb(37, 178, 47);
+  }
+  
+  .btn-secondary {
+    background-color: rgb(37, 178, 47);
+    border-color: rgb(37, 178, 47);
+  }
